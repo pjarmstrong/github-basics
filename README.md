@@ -1,4 +1,4 @@
 github-basics
 =============
 
-Remote repo to practice github skills
+Remote repo to practice github skills.
